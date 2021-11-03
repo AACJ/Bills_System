@@ -9,23 +9,23 @@ A aplicação faz o controle de contas a receber para garantir a saúde financei
 
 ## :computer: Layout 
 
-<p float="left">
-<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_cadastro.PNG" width="500" height="350" style="float:left"/> 
+<div float="left">
+<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_cadastro.PNG" width="48%" height="350" style="float:left"/> 
   
-<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_login.PNG" width="500" height="350"/>
+<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_login.PNG" width="48%" height="350"/>
 
-<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_inicial.PNG" width="500" height="350" style="float:left"/>
+<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_inicial.PNG" width="48%" height="350" style="float:left"/>
 
-<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_cadastro_clientes.PNG" width="500" height="350" style="float:left"/> 
+<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_cadastro_clientes.PNG" width="48%" height="350" style="float:left"/> 
   
-<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_cadastro_dividas.PNG" width="500" height="350"/>
+<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_cadastro_dividas.PNG" width="48%" height="350"/>
 
-<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_form_cliente.PNG" width="500" height="350" style="float:left"/> 
+<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_form_cliente.PNG" width="48%" height="350" style="float:left"/> 
   
-<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_form_cobranca.PNG" width="500" height="350"/>
+<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_form_cobranca.PNG" width="48%" height="350"/>
 
-<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_historico.PNG" width="500" height="350"/>
-</p>
+<img src="https://github.com/RuizHenrique01/Bills_System/blob/master/assets/tela_historico.PNG" width="48%" height="350"/>
+</div>
 
 # 🛠 Tecnologias Utilizadas
 
@@ -44,7 +44,7 @@ Abra a pasta no seu editor e execute o programa Tela.java.
 
 # 👨‍💻 Autores e Desenvolvedores
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHDufARiPFmWA/profile-displayphoto-shrink_200_200/0/1616451594388?e=1625702400&v=beta&t=nfpi5kwhBI_Ygz9rFwO4_ayDAaTNy55oBNkV1wa19Yw" width="100" height="100"/>
+<img src="https://avatars.githubusercontent.com/u/44075055?v=4" width="100" height="100"/>
 
 Aline Alves Cunegundes
 
